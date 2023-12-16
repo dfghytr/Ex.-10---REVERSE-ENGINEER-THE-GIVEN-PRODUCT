@@ -30,12 +30,9 @@
   ###   ●	Close the doors of the 3d printer.
   ###   ●	Open the file from the USB storage and select the Print option.
 
-## Input:![image](https://github.com/22002102/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119091638/6c98db9e-fb9c-4ac1-93f1-71117b6c58f7)
+## Input:![image](https://github.com/gpavana/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118787343/b85732bb-95da-49fc-8374-31cdc5240dda)
 
-### Output:
-![image](https://github.com/22002102/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119091638/041d65c6-a3ef-41ac-b7c2-c12195fe96af)
-
-
+### Output:![image](https://github.com/gpavana/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118787343/b77712b5-56a5-4155-9170-b7bd2fb74882)
 
 
 ### Name:Abdul kalaam k m
