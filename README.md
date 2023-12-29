@@ -34,7 +34,7 @@
 ![image](https://github.com/gpavana/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118787343/b85732bb-95da-49fc-8374-31cdc5240dda)
 
 ### Output:
-![image](https://github.com/gpavana/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118787343/b77712b5-56a5-4155-9170-b7bd2fb74882)
+![image](https://github.com/22002525karthikeyan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118708040/7d8db877-430c-436a-9a5a-87473b9642d3)
 
 
 ### Name:Abdul kalaam k m
